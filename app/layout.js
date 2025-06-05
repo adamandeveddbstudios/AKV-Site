@@ -16,9 +16,9 @@ const redHat = Red_Hat_Display({
 });
 
 export const metadata = {
-  title: "Property Pulse",
-  keywords: "rental, property, real estate",
-  description: "Find the perfect rental property with Property Pulse",
+  title: "Medicinal & Ecological Shrubs",
+  keywords: "Medicinal, Ecological",
+  description: "ow-Maintenance Green Assets for Health, Heritage, and Habitat",
 };
 
 export default function RootLayout({ children }) {
