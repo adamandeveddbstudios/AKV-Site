@@ -19,6 +19,23 @@ export const metadata = {
   title: "Medicinal & Ecological Shrubs",
   keywords: "Medicinal, Ecological",
   description: "ow-Maintenance Green Assets for Health, Heritage, and Habitat",
+  openGraph: {
+    title: "Medicinal & Ecological Shrubs",
+    description:
+      "Low-Maintenance Green Assets for Health, Heritage, and Habitat",
+    url: "https://akv-site.vercel.app/",
+    siteName: "Medicinal & Ecological Shrubs",
+    images: [
+      {
+        url: "/images/shrubs.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Medicinal & Ecological Shrubs",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {
